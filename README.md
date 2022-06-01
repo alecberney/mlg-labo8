@@ -1,1 +1,5 @@
-# mlg-labo8
+# MLG Labo 8
+
+## Authors
+* Alec Berney
+* Teo Ferrari
